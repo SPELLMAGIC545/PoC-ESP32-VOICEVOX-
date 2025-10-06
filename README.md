@@ -1,0 +1,2 @@
+# PoC-ESP32-VOICEVOX-
+PoC
